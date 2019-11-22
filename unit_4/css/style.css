@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Saira+Stencil+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+
+body {
+	background-color: white; 
+	font-size: 16px; /*1em = 16px*/
+	text-align: center; 
+	position: relative;
+}
+
+header { 
+padding: 0 200px;
+ }
+
+#sky {
+	background-image: url("file:///Users/JBM/Documents/delaneyjmccabe.github.io/unit_4/images/bluesky.jpg"); 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	height: 400px;
+	padding: 20px 0;
+	text-align: center;
+}
+h1{
+	font-family: 'Saira Stencil One', sans-serif;
+	font-weight: normal;
+	font-size: 60px;
+	text-align: center;
+	color: white;
+	margin: 200px 0 0;
+
+}
+
+a {text-decoration: none;
+	color: white;
+	border-bottom: 2px solid #000;
+	padding-bottom: 2px;
+	text-align: center;
+
+ }
+
+ .navlinks {
+ 	font-family: 'Playfair Display', sans-serif; 
+ 	color: white;
+ 	text-transform: uppercase;
+ 	font-weight: 500; 
+ 	letter-spacing: 2px;
+ 	padding: 20px;
+ 	margin: 0 20px;
+ 	border: none;
+ }
+
+ .planes { 
+width: 30em;
+margin: 2em auto;
+}
+
+p { 
+font-family: 'Arial', serif; 
+font-size: 1em;
+line-height: 1.5em; 
+text-align: center;
+ }
+ h4, h3 {
+ 	text-align: center;
+ 	 font-family: 'Arial', sans-serif;
+ 	 color: #0088db;
+ }
+ 
+hr { 
+border: none;
+height: 3px;
+background-color: blue;
+width: 15em;
+margin: 1em auto;
+align-content: center;
+ }
+
+ nav {
+ 	margin: auto;
+ }
+
+
